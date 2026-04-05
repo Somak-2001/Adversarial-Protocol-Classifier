@@ -1,0 +1,59 @@
+# ── Dataset (too large for GitHub) ───────────────────────────────────────────
+dataset/
+*.csv
+*.zip
+*.pcap
+
+# ── Jupyter Notebook checkpoints ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env
+.venv/
+
+# ── LaTeX build artifacts ─────────────────────────────────────────────────────
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Google Colab / Drive ──────────────────────────────────────────────────────
+drive/
+content/
+
+# ── Model checkpoints / saved models ─────────────────────────────────────────
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
