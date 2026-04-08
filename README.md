@@ -100,7 +100,7 @@ seaborn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/adversarial-protocol-classifier.git
+git clone https://github.com/Somak-2001/adversarial-protocol-classifier.git
 cd adversarial-protocol-classifier
 ```
 
