@@ -174,7 +174,6 @@ The notebook computes and renders all results programmatically without hardcoded
 | :--- | :--- | :--- |
 | **Somak Poddar** | 25CS60R12 | M.Tech, Computer Science and Engineering |
 | **Aarobh** | — | M.Tech, Computer Science and Engineering |
-| **Karthik** | — | M.Tech, Computer Science and Engineering |
 | **Karthik** | — | Dual Degree, Computer Science and Engineering |
 
 **Course**: CS60099 — Internet and Applications  
