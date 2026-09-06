@@ -1,0 +1,24 @@
+9. Adversarial ML: Attacking & Defending Protocol Classifiers [One group]
+Objective: The objective of this project is to explore the vulnerability of machine learning-based protocol
+classifiers to adversarial attacks and to develop effective defense mechanisms. The project will investigate
+state-of-the-art adversarial attack techniques on ML models, with a focus on network protocol
+classification. Implement and adapt adversarial attacks to deceive protocol classifiers. Design and
+implement defense mechanisms to mitigate these attacks. Evaluate the robustness of the defended modelsagainst the attacks.​
+​
+Scope of Work :
+●​ Literature Survey : Review of adversarial ML in network security, focusing on protocol
+classification.
+●​ Dataset​: Use existing network traffic datasets (e.g., CIC-IDS2017, UNSW-NB15) or generate
+synthetic data. Focus on TCP/IP protocols; may include encrypted (TLS) and non-encrypted
+traffic.
+●​ Protocol Classifier : Implementation of a baseline ML model for protocol classification (e.g.,
+using flow-based features). Model types: traditional ML (Random Forest, SVM) and/or deep
+learning (CNN, LSTM).
+●​ Adversarial Attacks : Implementation of white-box and black-box attacks (e.g., FGSM, PGD,
+Jacobian-based) adapted to network traffic data.​ Attacks are limited to evasion attacks (during
+inference) and focus on feature space perturbations.
+●​ Defense Mechanisms : Implementation of adversarial training, input sanitization, and/or
+detection of adversarial examples.
+●​ Evaluation : Comprehensive evaluation of attack success and defense effectiveness.
+●​ Optional (For extra Credit) : Novel Attack or Defense: Proposal and implementation of a novel
+attack or defense strategy.
